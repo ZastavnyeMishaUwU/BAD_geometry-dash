@@ -364,8 +364,8 @@ function gameloop() {
 		if (dtl == 0) {
 			dtl = 1;
 		}
-		//alert(dtl)
-		//dt = (dt % 1) + 1;
+		alert(dtl)
+		dt = (dt % 1) + 1;
 		
 		for (let i = 0; i < dtl; i++) {
 			if (isdown) {
