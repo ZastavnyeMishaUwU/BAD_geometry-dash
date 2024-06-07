@@ -10,9 +10,11 @@ https://zastavnyemishauwu.github.io/BAD_geometry-dash/
 <img width="960" alt="image" src="https://github.com/ZastavnyeMishaUwU/BAD_geometry-dash/assets/103821356/3662fecb-ba5b-41fd-8e96-a3ea3aad9a83">
 
 Відгуки:
+
  Денис Канюга:
  
  Мені сподобалося. Вийшло дуже класно. Тут є декілька мінусів, але надіюсь, що в майбутньому все виправиться
+
 
 
 Щоб написати відгук напишіть мені в телеграм https://t.me/MIsha_fums
